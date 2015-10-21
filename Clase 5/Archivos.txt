@@ -1,0 +1,9 @@
+Ejercicios en clase
+
+1.- Archivo de ejemplo:
+File >> Examples >> Servo >> Knob
+
+2.- Practica
+
+3.- Proyecto 4
+Robot seguidor de luz
